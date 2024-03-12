@@ -1,2 +1,3 @@
-# r2bench
-R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations
+# R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations
+
+Code and dataset coming soon!
