@@ -30,7 +30,7 @@ class ModalityAugmentation(ABC):
                 "glass_blur": glass_blur,
                 "defocus_blur": defocus_blur,
                 "motion_blur": motion_blur,
-                # "zoom_blur": zoom_blur,
+                "zoom_blur": zoom_blur,
                 "fog": fog,
                 "frost": frost,
                 "snow": snow,
@@ -40,7 +40,7 @@ class ModalityAugmentation(ABC):
                 "saturate": saturate,
                 "jpeg_compression": jpeg_compression,
                 "pixelate": pixelate,
-                # "elastic_transform": elastic_transform
+                "elastic_transform": elastic_transform
             }
         self.text_noise_functions = {
                 "misspell": self.text_perturber.misspell,
@@ -99,7 +99,6 @@ if __name__ == '__main__':
 
     # Example of using the class for text
     for noise_type in augmenter.text_noise_functions.keys():
-        print(noise_type, '################')
         answer = augmenter.apply("a dog that is running", "text", noise_type, severity=2)
         print(answer)
 
