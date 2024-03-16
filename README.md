@@ -50,7 +50,7 @@ augmenter = ModalityAugmentation()
 # Visualization
 <p align="center"><img src="assets/vis.jpg" width="900"/></p>
 
-# Related works for robust multimodal video segmentation:
+# Related works for robust referring perception:
 
 > [Towards Robust Audiovisual Segmentation in Complex Environments with Quantization-based Semantic Decomposition](https://arxiv.org/abs/2310.00132), CVPR 2024
 
