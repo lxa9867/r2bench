@@ -1,4 +1,4 @@
-> [**R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations**]([https://arxiv.org/abs/2207.01203](https://arxiv.org/abs/2403.04924))
+> [**R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations**](https://arxiv.org/abs/2403.04924)
 >
 > Xiang Li, Kai Qiu, Jinglu Wang, Xiaohao Xu, Rita Singh, Kashu Yamazak, Hao Chen, Xiaonan Huang, Bhiksha Raj
 
