@@ -2,7 +2,7 @@
 >
 > Xiang Li, Kai Qiu, Jinglu Wang, Xiaohao Xu, Rita Singh, Kashu Yamazak, Hao Chen, Xiaonan Huang, Bhiksha Raj
 
-<p align="center"><img src="illustration.png" width="700"/></p>
+<p align="center"><img src="assets/Illustration.png" width="700"/></p>
 
 # Updates
 - **(2024-03-16)** We release the first version of the noise synthesis toolbox!
