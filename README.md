@@ -11,6 +11,7 @@
 # Related works for robust multimodal video segmentation:
 
 > [Towards Robust Audiovisual Segmentation in Complex Environments with Quantization-based Semantic Decomposition](https://arxiv.org/abs/2310.00132), CVPR 2024
+
 > [Robust Referring Video Object Segmentation with Cyclic Structural Consensus](https://arxiv.org/abs/2403.04924), ICCV 2023
 
 ## Citation
