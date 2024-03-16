@@ -1,0 +1,12 @@
+pillow
+audiomentations
+numpy
+torch
+torchvision
+scikit-image
+Wand
+opencv-python
+soundfile
+transformers
+accelerate
+pyroomacoustics
