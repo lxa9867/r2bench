@@ -1,6 +1,6 @@
 > [**R2-Bench: Benchmarking the Robustness of Referring Perception Models under Perturbations**](https://arxiv.org/abs/2403.04924)
 >
-> Xiang Li, Kai Qiu, Jinglu Wang, Xiaohao Xu, Rita Singh, Kashu Yamazak, Hao Chen, Xiaonan Huang, Bhiksha Raj
+> Xiang Li, Kai Qiu, Jinglu Wang, Xiaohao Xu, Rita Singh, Kashu Yamazaki, Hao Chen, Xiaonan Huang, Bhiksha Raj
 
 <p align="center"><img src="assets/Illustration.png" width="700"/></p>
 
