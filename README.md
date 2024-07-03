@@ -5,6 +5,7 @@
 <p align="center"><img src="assets/Illustration.png" width="700"/></p>
 
 # Updates
+- **(2024-07-01)** R2-Bench got accepted to ECCV 2024! We are cleaning the remaining code and will release it by the end of July.
 - **(2024-03-16)** We release the preview version of the noise synthesis toolbox!
 
 # Instantiated Datasets
