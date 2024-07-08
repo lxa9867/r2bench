@@ -23,6 +23,7 @@
 | VOS | DAVIS | 1 | [Link](https://drive.google.com/file/d/1JQrPHKr9zzP7W4V9sQgadVEjTSVWlJhS/view?usp=drive_link) |
 | VOS | DAVIS | 3 | [Link](https://drive.google.com/file/d/1JQrPHKr9zzP7W4V9sQgadVEjTSVWlJhS/view?usp=drive_link) |
 | VOS | DAVIS | 5 | [Link](https://drive.google.com/file/d/1JQrPHKr9zzP7W4V9sQgadVEjTSVWlJhS/view?usp=drive_link) |
+| VOS | DAVIS |Dyn| [Link](https://drive.google.com/file/d/1JQrPHKr9zzP7W4V9sQgadVEjTSVWlJhS/view?usp=drive_link) |
 | RIS | Ref-COCO | 1 | Link |
 | RIS | Ref-COCO | 3 | Link |
 | RIS | Ref-COCO | 5 | Link |
