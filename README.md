@@ -73,6 +73,7 @@ augmenter = ModalityAugmentation()
         answer = augmenter.apply("a dog that is running", "text", noise_type, severity=2)
         print(answer)
 ```
+The example method for apply noisy for data refcoco, davis, Youtube VOS can be seen in create_noist_data.py
 
 # Visualization
 <p align="center"><img src="assets/vis.jpg" width="900"/></p>
