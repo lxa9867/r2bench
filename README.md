@@ -70,7 +70,6 @@ augmenter = ModalityAugmentation()
 
     # Example of using the class for text
     for noise_type in augmenter.text_noise_functions.keys():
-        print(noise_type, '################')
         answer = augmenter.apply("a dog that is running", "text", noise_type, severity=2)
         print(answer)
 ```
