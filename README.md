@@ -17,7 +17,7 @@
 
 
 
-For AVS and R-VOS datasets, please use the 'create_noisy_dataset.py' (with fixed random seed).
+For AVS and R-VOS datasets, please use the 'create_noisy_data.py' (with default random seed).
 
 # Installation
 ```
