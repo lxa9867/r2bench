@@ -9,31 +9,15 @@
 - **(2024-03-16)** We release the preview version of the noise synthesis toolbox!
 
 # Instantiated Datasets
-| Task | Original Dataset | Severity | Link |
-|-----------------|-----------------|-----------------|-----------------|
-| R-VOS | Youtube-Ref-VOS | 1 | Link |
-| R-VOS | Youtube-Ref-VOS | 3 | Link |
-| R-VOS | Youtube-Ref-VOS | 5 | Link |
-| R-VOS | Ref-DAVIS | 1 | Link |
-| R-VOS | Ref-DAVIS | 3 | Link |
-| R-VOS | Ref-DAVIS | 5 | Link |
-| VOS | Youtube-VOS | 1 | [Link](https://drive.google.com/file/d/133yl9mIrUrD3g-Geh9_v-t01EB7VRW56/view?usp=drive_link) |
-| VOS | Youtube-VOS | 3 | [Link](https://drive.google.com/file/d/133yl9mIrUrD3g-Geh9_v-t01EB7VRW56/view?usp=drive_link) |
-| VOS | Youtube-VOS | 5 | [Link](https://drive.google.com/file/d/133yl9mIrUrD3g-Geh9_v-t01EB7VRW56/view?usp=drive_link) |
-| VOS | Youtube-VOS | Dynamic | [Link](https://drive.google.com/file/d/133yl9mIrUrD3g-Geh9_v-t01EB7VRW56/view?usp=drive_link) |
-| VOS | DAVIS | 1 | [Link](https://drive.google.com/file/d/1JQrPHKr9zzP7W4V9sQgadVEjTSVWlJhS/view?usp=drive_link) |
-| VOS | DAVIS | 3 | [Link](https://drive.google.com/file/d/1JQrPHKr9zzP7W4V9sQgadVEjTSVWlJhS/view?usp=drive_link) |
-| VOS | DAVIS | 5 | [Link](https://drive.google.com/file/d/1JQrPHKr9zzP7W4V9sQgadVEjTSVWlJhS/view?usp=drive_link) |
-| VOS | DAVIS |Dynamic| [Link](https://drive.google.com/file/d/1JQrPHKr9zzP7W4V9sQgadVEjTSVWlJhS/view?usp=drive_link) |
-| RIS | Ref-COCO | 1 | [Link](https://drive.google.com/file/d/1CwU1wXmo4wieKIx1q4po_cnqyiBMRg8F/view?usp=drive_link) |
-| RIS | Ref-COCO | 3 | [Link](https://drive.google.com/file/d/1CwU1wXmo4wieKIx1q4po_cnqyiBMRg8F/view?usp=drive_link) |
-| RIS | Ref-COCO | 5 | [Link](https://drive.google.com/file/d/1CwU1wXmo4wieKIx1q4po_cnqyiBMRg8F/view?usp=drive_link) |
-| AVS | AVSBench-s3 | 1 | Link |
-| AVS | AVSBench-s3 | 3 | Link |
-| AVS | AVSBench-s3 | 5 | Link |
-| AVS | AVSBench-ms4 | 1 | Link |
-| AVS | AVSBench-ms4 | 3 | Link |
-| AVS | AVSBench-ms4 | 5 | Link |
+| Task | Original Dataset |  Link |
+|-----------------|-----------------|-----------------|
+| VOS | Youtube-VOS | [Link](https://drive.google.com/file/d/133yl9mIrUrD3g-Geh9_v-t01EB7VRW56/view?usp=drive_link) |
+| VOS | DAVIS | [Link](https://drive.google.com/file/d/1JQrPHKr9zzP7W4V9sQgadVEjTSVWlJhS/view?usp=drive_link) |
+| RIS | Ref-COCO | [Link](https://drive.google.com/file/d/1CwU1wXmo4wieKIx1q4po_cnqyiBMRg8F/view?usp=drive_link) |
+
+
+
+For AVS and R-VOS datasets, please use the 'create_noisy_dataset.py' (with fixed random seed).
 
 # Installation
 ```
